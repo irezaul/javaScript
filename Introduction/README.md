@@ -4,3 +4,6 @@
 JavaScript Can Change HTML Content
 One of many JavaScript HTML methods is getElementById().
 ```
+
+### Output 
+![output](./img/output.gif)
