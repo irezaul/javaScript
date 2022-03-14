@@ -9,3 +9,4 @@ One of many JavaScript HTML methods is getElementById()
 ```javascript
 document.getElementById("demo").innerHTML = "Hello JavaScript";
 ```
+### NOTE- JavaScript accepts both `double` and `single quotes`
