@@ -4,8 +4,6 @@
 JavaScript Can Change HTML Content
 One of many JavaScript HTML methods is getElementById().
 
-জাভাস্ক্রিপ্ট HTML বিষয়বস্তু পরিবর্তন করতে পারে
-অনেক জাভাস্ক্রিপ্ট HTML পদ্ধতির মধ্যে একটি হল getElementById()
 ```
 
 ### Output 
