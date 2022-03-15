@@ -7,7 +7,7 @@ One of many JavaScript HTML methods is getElementById().
 ```
 
 ### Output 
-![output](./img/output.gif)
+![output](./Introduction/img/output.gif)
 
 ## Topics
 
