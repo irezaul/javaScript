@@ -1,6 +1,6 @@
 # JavaScript Practice...
 
-### [Bangla Version](./Introduction/jsBangla)
+### [Bangla Version](./jsBangla/)
 
 
 ### Introducttion -
