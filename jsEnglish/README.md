@@ -12,4 +12,4 @@ One of many JavaScript HTML methods is getElementById().
 ## Topics
 
 *  innerHTML</br>
- ( JavaScript innerHTML বৈশিষ্ট্য হলো একটি ওয়েব পেইজে একটি উপাদানের HTML বিষয়বস্তু সেট করে। InnerHTML হল HTML DOM-এর একটি সম্পত্তি। innerHTML প্রায়ই p -tag উপাদানের বিষয়বস্তু সেট এবং পরিবর্তন করতে ব্যবহৃত হয়।)
+ ( JavaScript innerHTML feature sets the HTML content of an element on a web page. InnerHTML is a property of the HTML DOM. innerHTML is often used to set and modify the content of p -tag elements.)
